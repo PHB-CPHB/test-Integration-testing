@@ -14,7 +14,7 @@ We expect that all methods have been unit tested.
 We will test it in this order.
 
 1. Buttom Up test
-   * We chose to test using bottom up method so we are sure that each layer does as intented and get the correct data. 
+   * We chose to test using bottom up method so we are sure that each layer does as intented and get the correct data without creating    stubs. 
    
    1. Testing the connection between Database and DataLayer (This will be created)
       * This will be completed with JUnit5
