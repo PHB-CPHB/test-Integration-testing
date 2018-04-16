@@ -12,8 +12,8 @@ We paln to test all interfaces between the layers, we will test it in this order
 1. Testing the connection between Database and DataLayer
    * This will be completed with JUnit4
   
-2. Testing the connection between ServiceLayer and DataLayer
-  * This will be completed with JUnit4
+2. Testing the connection between ServiceLayer and DataLayer.
+   * This will be completed with JUnit4
   
 3. Testing the connection between UserInterfaceLayer and ServiceLayer
-  * This will be completed with JUnit4
+   * This will be completed with JUnit4
